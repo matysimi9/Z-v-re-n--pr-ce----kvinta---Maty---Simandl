@@ -1,0 +1,26 @@
+.sekce_1 {
+    color: cadetblue;
+    text-align: center;
+}
+
+.sekce_2 {
+    text-align: center;
+    color: darksalmon;
+}
+
+.sekce_3 {
+    text-align: left;
+    font-weight: bold;
+    color: darkred;
+}
+
+.sekce_4 {
+    text-align: left;
+    font-weight: bolder;
+    color: rgb(255, 255, 200)
+}
+.sekce_5 {
+    text-align: left;
+    font-weight: lighter;
+    color: coral;
+}
