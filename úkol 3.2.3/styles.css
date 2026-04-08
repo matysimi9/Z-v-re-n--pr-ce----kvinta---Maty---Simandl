@@ -1,0 +1,51 @@
+.první_sekce {
+
+    border: 6px solid orangered;
+    border-radius: 50px;
+    padding: 60px;
+    margin-top: 44px;
+}
+
+.první_sekce-nadpis {
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+}
+
+.první_sekce-body {
+    font-size: large;
+    color: green;
+    text-align: left;
+}
+
+.druhá_sekce {
+    border: solid peru;
+    border-radius: 40px;
+    margin-top: 34px;
+}
+
+.druhá_sekce-nadpis {
+    color: mediumspringgreen;
+    font-size: x-large;
+    margin-left: 34px;
+}
+
+.druhá_sekce-body {
+    color: crimson;
+}
+
+.třetí_sekce {
+    border: solid darkgray;
+    border-radius: 40px;
+    margin-top: 18px;
+}
+
+.třetí_sekce-nadpis {
+    color: darkcyan;
+    font-size: x-large;
+    margin-left: 34px;
+}
+
+.třetí_sekce-body {
+    color: olive
+}

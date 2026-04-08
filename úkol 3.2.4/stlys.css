@@ -1,0 +1,55 @@
+.a {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    font-weight: bold;
+    margin-left: 850px
+}
+
+.b {
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    margin-top: 60px
+}
+
+hr {
+    height: 5px;
+    background-color: black;
+    margin: 30px;
+}
+
+.c {
+    margin-top: 30px;
+    text-align: center;
+    font-size: large;
+    color: darkcyan;
+}
+
+.d {
+    color: brown;
+    font-size: xx-small;
+    margin-top: 10px;
+}
+
+.e {
+    display: flex;
+    gap: 240px;
+    margin-left: 24px;
+}
+
+.f {
+    border: solid lightblue;
+    background-color: lightblue;
+    border-radius: 40px;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 15px;
+}
