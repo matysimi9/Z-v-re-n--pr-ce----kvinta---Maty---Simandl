@@ -4,6 +4,7 @@
     color: gold;
     margin-top: 10px;
 }
+
 .nadpis_druhá_část {
     text-align: center;
     font-style: italic;
@@ -17,4 +18,17 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-h1 {font-size: 70px;}
+
+h1 {
+    font-size: 70px;
+}
+
+button {transform: translateX(915px);
+background-color: palevioletred;}
+
+a {
+    color: orange;
+    font-weight: bolder;
+    font-size: x-large;
+    font-style: oblique;
+}
